@@ -1,4 +1,4 @@
-# REPOSITÓRIO PARA AS ATIVIDADES DA DISCIPLINA DE DESENVOLVIMENTO WEB 2
+# DWII - REPOSITÓRIO PARA AS ATIVIDADES DA DISCIPLINA DE DESENVOLVIMENTO WEB 2
 
 Na pasta A1 contém a 1ª parte do desenvolvimento do projeto dev.finance. Na pasta A2 contém a 2ª parte do desenvolvimento do projeto dev.finance. Na pasta A3 contém a 3ª parte do desenvolvimento do projeto dev.finance. No qual o projeto dev.finance é uma aplicação para controle financeiro de gastos e ganhos, contendo as datas de cada transação realizada.
 
