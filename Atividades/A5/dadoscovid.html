@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+     <html lang="en">
+     <head>
+         <meta charset="UFT-8"/>
+         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+         <title>Dados relacionados a COVID-19 no Brasil</title>
+         <link rel="stylesheet" href="./css/a5.css">
+	 </head>
+
+     <body>	
+        <div class="container">
+            <div class="row justify-content-center">
+                <h2>Dados relacionados a COVID-19 de um determinado estado do Brasil</h2>
+                <br>
+            </div> 
+            <div class="row justify-content-center">
+                <form id="dadoscovid_form" method="get" action=".">
+                    <div class="form-row">
+                        <div class="form_group col-md-6">
+                            <label class="lblCep" for="cep">Insira o CEP que deseja pesquisar:</label>
+                            <input type="text" class="form-control" id="cep" data-js="cep" value="" size="10"
+                            onblur="findCep(this.value);"/>
+                            <button type="submit" class="btn_buscar">Buscar</button>
+                        </div>
+                    </div> 
+                    <!-- <button type="submit" class="btn_buscar">Buscar</button> -->
+                </form>
+            </div>
+       </div>
+
+       <!-- Onde irá aparecer os dados -->
+       <div class="row justify-content-center">
+            <pre class="result_dados" id="dadoscovid"></pre>
+       </div>
+
+        <script type="module" src="./js/validacep.js"></script>
+        <script src="./js/dadoscovid.js"></script>
+    </body>
+</html>	   
