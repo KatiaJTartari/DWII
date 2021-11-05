@@ -1,0 +1,26 @@
+<html lang="en">
+    
+    <div id="app">
+        <katia-component />
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script type="text/javascript">
+
+        Vue.component('katia-component',{
+        template: `
+            <div> 
+                <h1>{{ name }}</h1> 
+                <input type="text" v-model="name" />
+            </div>  
+        `,
+        data: () => ({ name: 'KATIA' })
+    })
+
+    const vue = new Vue({
+        el: '#app',
+    }) 
+
+    </script>
+
+</html>
