@@ -6,4 +6,4 @@ A4 contém o desenvolvimento de um formulário, no qual foi criado máscaras par
 
 A5 contém uma aplicação para exibir os dados relacionados a COVID-19 de um determinado estado do Brasil, contendo um pequeno formulário com um campo input para o usuário digitar o CEP que deseja pesquisar, sendo o campo do CEP validado por uma máscara elaborada em JavaScript por módulo. Nesta aplicação foram utilizadas duas APIs, uma API de CEP: https://viacep.com.br/ e uma API do COVI-19: https://covid19-brazil-api-docs.vercel.app/ utilizando promise, async e await no JavaSCript.
 
-tecnologia-javascript pequena aplicação utilizando o framework VueJS por CDN e slides de texto com conceitos teóricos sobre o VueJS.
+tecnologia-javascript pequena aplicação utilizando o framework VueJS por (CDN) e extensão (.vue).
