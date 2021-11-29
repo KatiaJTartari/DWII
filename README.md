@@ -31,8 +31,8 @@ SPA com React - sendo elaborado a configuração do ambiente e estruturação do
 # tecnologia-javascript 
 Pequena aplicação utilizando o framework VueJS por (CDN) e extensão (.vue).
 Links do meu GitHub Pages com os códigos em VueJS: 
-< https://katiajtartari.github.io/DWII/tecnologia-javascript/primeiroAppVue.html >
-< https://katiajtartari.github.io/DWII/tecnologia-javascript/segundoAppVue.html >
-< https://katiajtartari.github.io/DWII/tecnologia-javascript/component.html >
-<https://katiajtartari.github.io/DWII/tecnologia-javascript/singleFileComponent.vue>
+* https://katiajtartari.github.io/DWII/tecnologia-javascript/primeiroAppVue.html  
+* https://katiajtartari.github.io/DWII/tecnologia-javascript/segundoAppVue.html   
+* https://katiajtartari.github.io/DWII/tecnologia-javascript/component.html   
+* https://katiajtartari.github.io/DWII/tecnologia-javascript/singleFileComponent.vue
 
