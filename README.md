@@ -2,13 +2,13 @@
 
 
 # A1
-1ª parte do desenvolvimento do projeto dev.finance. 
+1ª parte do desenvolvimento do projeto dev.finance. No qual o projeto dev.finance é uma aplicação para controle financeiro de gastos e ganhos, contendo as datas de cada transação realizada.
 
 # A2 
 2ª parte do desenvolvimento do projeto dev.finance. 
 
 # A3 
-3ª parte do desenvolvimento do projeto dev.finance. No qual o projeto dev.finance é uma aplicação para controle financeiro de gastos e ganhos, contendo as datas de cada transação realizada.
+3ª parte do desenvolvimento do projeto dev.finance. 
 
 # A4 
 Desenvolvimento de um formulário, no qual foi criado máscaras para formulário em JavaScript puro e também validação dos campos inputs do formulário, através de módulos javaScritp.
