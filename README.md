@@ -17,12 +17,11 @@ Desenvolvimento de um formulário, no qual foi criado máscaras para formulário
 Aplicação para exibir os dados relacionados a COVID-19 de um determinado estado do Brasil, contendo um pequeno formulário com um campo input para o usuário digitar o CEP que deseja pesquisar, sendo o campo do CEP validado por uma máscara elaborada em JavaScript por módulo. Nesta aplicação foram utilizadas duas APIs, uma API de CEP: https://viacep.com.br/ e uma API do COVI-19: https://covid19-brazil-api-docs.vercel.app/ utilizando promise, async e await no JavaSCript.
 
 # A6 - Desenvolvido no Notion:  
-Passo-a-passo desenvolvido no Notion sobre instalação, configuração e os respectivos comando utilizados nos vídeos para instalar e configurar o webpack.js e babel.js de acordo com as 10 aulas da Playlist de Introdução ao React - Prof° Johnata Santicioli. 
+Passo-a-passo SPA com React - desenvolvido no Notion sobre instalação, configuração e comandos para instalar e configurar o webpack.js e babel.js. 
 Link do passo-a-passo desenvolvido no meu Notion: https://ancient-impulse-de2.notion.site/Passo-a-passo-sobre-instala-o-configura-o-e-os-respectivos-comando-utilizados-nos-v-deos-para-ins-b7ad4592c9a24c0f9ce41c86ac6e40e2
 
-
 # A7 
-SPA com React - sendo elaborado a configuração do ambiente e estruturação do projeto no qual foi desenvolvido uma aplicação para listar repositórios. Referência: Playlist Introdução ao React - Prof° Johnata Santicioli.  
+SPA com React - sendo elaborado a configuração do ambiente e estruturação do projeto no qual foi desenvolvido uma aplicação para listar repositórios.  
 
 # tecnologia-javascript 
 Pequena aplicação utilizando o framework VueJS por (CDN) e extensão (.vue).
