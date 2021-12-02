@@ -32,7 +32,7 @@ Link do passo-a-passo desenvolvido no meu Notion:
 * https://ancient-impulse-de2.notion.site/Passo-a-passo-sobre-instala-o-configura-o-e-os-respectivos-comando-utilizados-nos-v-deos-para-ins-b7ad4592c9a24c0f9ce41c86ac6e40e2
 
 # A7 
-SPA com React - sendo elaborado a configuração do ambiente e estruturação do projeto no qual foi desenvolvido uma aplicação para listar repositórios.  
+SPA com React - sendo elaborado a configuração do ambiente e estruturação do projeto no qual foi desenvolvido uma aplicação para listar os meus repositórios do GitHub.  
 
 # tecnologia-javascript 
 Pequena aplicação utilizando o framework VueJS por (CDN) e extensão (.vue).
