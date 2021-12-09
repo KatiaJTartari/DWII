@@ -42,5 +42,5 @@ Links do meu GitHub Pages com os códigos em VueJS:
 * https://katiajtartari.github.io/DWII/tecnologia-javascript/component.html   
 * https://katiajtartari.github.io/DWII/tecnologia-javascript/singleFileComponent.vue
 
-#projeto-spa
+# projeto-spa
 SPA com Vue - Projeto Pet Calculador KJT - Calcula os gastos mensais do seu Pet
