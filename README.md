@@ -44,3 +44,6 @@ Links do meu GitHub Pages com os códigos em VueJS:
 
 # projeto-spa
 SPA com VueJS - Projeto Pet Calculador KJT - Calcula os gastos mensais do Pet
+
+# recuperacao-spa
+SPA com React - Aplicação de gerenciamento de tarefas
