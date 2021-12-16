@@ -47,6 +47,6 @@ SPA com VueJS - Projeto Pet Calculador KJT - Calcula os gastos mensais do Pet
 
 # recuperacao-spa
 SPA com React - Aplicação para gerenciar tarefas; sendo possível incluir, ver detalhes, excluir e marcar uma tarefa.
-Libs usadas no projeto: uuid, react-icon e react-router-dom
+Libs usadas no projeto: uuid, react-icon e react-router-dom.
 Link do Vercel:
 * https://gerenciar-tarefas.vercel.app/ 
