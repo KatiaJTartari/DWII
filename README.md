@@ -28,7 +28,7 @@ Link do GitHub Pages:
 
 # A6 - Desenvolvido no Notion:  
 Passo-a-passo SPA com React - desenvolvido no Notion sobre instalação, configuração e comandos para instalar e configurar o webpack.js e babel.js. 
-Link do passo-a-passo desenvolvido no meu Notion: 
+Link do passo-a-passo desenvolvido no Notion: 
 * https://ancient-impulse-de2.notion.site/Passo-a-passo-sobre-instala-o-configura-o-e-os-respectivos-comando-utilizados-nos-v-deos-para-ins-b7ad4592c9a24c0f9ce41c86ac6e40e2
 
 # A7 
