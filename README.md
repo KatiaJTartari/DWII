@@ -46,4 +46,5 @@ Links do meu GitHub Pages com os códigos em VueJS:
 SPA com VueJS - Projeto Pet Calculador KJT - Calcula os gastos mensais do Pet
 
 # recuperacao-spa
-SPA com React - Aplicação de gerenciamento de tarefas
+SPA com React - Aplicação para gerenciar tarefas; sendo possível incluir, ver detalhes, excluir e marcar uma tarefa.
+libs usadas no projeto: uuid, react-icon e react-router-dom
