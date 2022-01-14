@@ -34,7 +34,7 @@ Link do passo-a-passo desenvolvido no Notion:
 # A7 
 SPA com React - sendo elaborado a configuração do ambiente e estruturação do projeto, no qual foi desenvolvido uma aplicação para listar os meus repositórios do GitHub. 
 Link do GitHub Pages: 
-* https://katiajtartari.github.io/DWII/Atividades/A7/dist/index.html
+* https://katiajtartari.github.io/DWII/Atividades/A7/dist/
 
 # tecnologia-javascript 
 Pequena aplicação utilizando o framework VueJS por (CDN) e extensão (.vue).
