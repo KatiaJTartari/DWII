@@ -7,7 +7,7 @@
     <h2>CALCULE O GASTO MENSAL COM SEU PET</h2>  
     <img src="./assets/prato_racao.png" id="prato_racao">
     <img src="./assets/veterinario.png" id="veterinario">
-    <img src="./assets/medicamentos.png" id="medicamentos">
+    <img src="./assets/medicamentos.PNG" id="medicamentos">
     <img src="./assets/lavagem_cachorro.jpg" id="lavagem_cachorro">
     <Calculator></Calculator>
     <Total></Total>
