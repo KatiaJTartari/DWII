@@ -1,3 +1,6 @@
+![PET CALCULADOR KJT](https://user-images.githubusercontent.com/70042571/149606484-b31084ce-a574-4066-9c92-fca0aa59267a.png)
+
+
 # yes
 
 
