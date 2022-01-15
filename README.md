@@ -54,6 +54,3 @@ SPA com React - Aplicação para gerenciar tarefas; sendo possível incluir, ver
 Libs usadas no projeto: uuid, react-icon e react-router-dom.
 Link do meu Vercel:
 * https://gerenciar-tarefas.vercel.app/
-
-![image](https://user-images.githubusercontent.com/70042571/149443487-07738c37-fd9f-4ed1-b586-c92c72fd7674.png)
-
