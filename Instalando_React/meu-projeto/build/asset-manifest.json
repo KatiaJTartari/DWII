@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DWII/Instalando-React/meu-projeto/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/DWII/Instalando-React/meu-projeto/static/js/main.28096a2f.chunk.js",
+    "main.js.map": "/DWII/Instalando-React/meu-projeto/static/js/main.28096a2f.chunk.js.map",
+    "runtime-main.js": "/DWII/Instalando-React/meu-projeto/static/js/runtime-main.57b57a49.js",
+    "runtime-main.js.map": "/DWII/Instalando-React/meu-projeto/static/js/runtime-main.57b57a49.js.map",
+    "static/js/2.4f656b98.chunk.js": "/DWII/Instalando-React/meu-projeto/static/js/2.4f656b98.chunk.js",
+    "static/js/2.4f656b98.chunk.js.map": "/DWII/Instalando-React/meu-projeto/static/js/2.4f656b98.chunk.js.map",
+    "static/js/3.51b0365b.chunk.js": "/DWII/Instalando-React/meu-projeto/static/js/3.51b0365b.chunk.js",
+    "static/js/3.51b0365b.chunk.js.map": "/DWII/Instalando-React/meu-projeto/static/js/3.51b0365b.chunk.js.map",
+    "index.html": "/DWII/Instalando-React/meu-projeto/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/DWII/Instalando-React/meu-projeto/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.4f656b98.chunk.js.LICENSE.txt": "/DWII/Instalando-React/meu-projeto/static/js/2.4f656b98.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57b57a49.js",
+    "static/js/2.4f656b98.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.28096a2f.chunk.js"
+  ]
+}
