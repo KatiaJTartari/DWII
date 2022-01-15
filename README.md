@@ -21,10 +21,12 @@ Desenvolvimento de um formulário, no qual foi criado máscaras para formulário
 Link do meu GitHub Pages: 
 * https://katiajtartari.github.io/DWII/Atividades/A4/
 
-# A5 
+# A5 e A5-Versao2 
 Aplicação para exibir os dados relacionados a COVID-19 de um determinado estado do Brasil, contendo um pequeno formulário com um campo input para o usuário digitar o CEP que deseja pesquisar, sendo o campo do CEP validado por uma máscara elaborada em JavaScript por módulo. Nesta aplicação foram utilizadas duas APIs, uma API de CEP: https://viacep.com.br/ e uma API do COVI-19: https://covid19-brazil-api-docs.vercel.app/ utilizando promise, async e await no JavaSCript.
-Link do meu GitHub Pages: 
+Links do meu GitHub Pages: 
 * https://katiajtartari.github.io/DWII/Atividades/A5/dadoscovid
+
+* https://katiajtartari.github.io/DWII/Atividades/A5-Versao2/
 
 # A6 - Desenvolvido no Notion:  
 Passo-a-passo SPA com React - desenvolvido no Notion sobre instalação, configuração e comandos para instalar e configurar o webpack.js e babel.js. 
